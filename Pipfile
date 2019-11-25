@@ -6,6 +6,7 @@ verify_ssl = true
 [dev-packages]
 pytest = "*"
 pytest-testmon = "~=0.9.18"
+pytest-django = "*"
 
 [requires]
 python_version = "3.6"
