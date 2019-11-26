@@ -12,4 +12,4 @@ pytest-django = "*"
 python_version = "3.6"
 
 [packages]
-django = "~=1.11"
+django = "~=$DJANGO_VERSION"
