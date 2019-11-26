@@ -11,4 +11,4 @@ install:
   - pipenv sync --dev
 # command to run tests
 script:
-  - pytest --testmon
+  - pytest --testmon project
