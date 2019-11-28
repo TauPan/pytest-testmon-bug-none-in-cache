@@ -5,7 +5,7 @@ verify_ssl = true
 
 [dev-packages]
 pytest = "*"
-pytest-testmon = "==1.0.0"
+pytest-testmon = "~=1.0.0"
 pytest-django = "*"
 
 [requires]
